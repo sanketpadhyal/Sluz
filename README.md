@@ -1,5 +1,5 @@
-<a href="https://www.odoy.in">
-    <img src="./logo.png" alt="ODOY LOGO" width="290" />
+<a href="">
+    <img src="./logo.png" alt="ODOY LOGO" width="190" />
 </a>
 
 # SLUZ – Structured Career Roadmap Platform
