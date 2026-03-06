@@ -1,5 +1,5 @@
 <a href="">
-    <img src="./logo.png" alt="ODOY LOGO" width="190" />
+    <img src="./logo.png" alt="LOGO" width="190" />
 </a>
 
 # SLUZ – Structured Career Roadmap Platform
@@ -8,7 +8,7 @@ SLUZ is a modern web platform designed to provide **structured, research-backed 
 
 Instead of random learning and confusion, SLUZ helps students follow a **clear step-by-step path toward skills, internships, and high-paying placements** based on real industry expectations.
 
-🌐 Website
+🌐 Website  
 https://www.sluz.blog
 
 ---
@@ -31,12 +31,12 @@ Many students spend years learning technologies **without clear direction**.
 
 SLUZ solves this by providing structured guidance on:
 
-✔ What to learn
-✔ When to learn
-✔ What projects to build
-✔ What CGPA to target
-✔ How to prepare for internships
-✔ How to aim for high-paying placements
+✔ What to learn  
+✔ When to learn  
+✔ What projects to build  
+✔ What CGPA to target  
+✔ How to prepare for internships  
+✔ How to aim for high-paying placements  
 
 All organized into a **clear and structured roadmap system**.
 
@@ -44,13 +44,13 @@ All organized into a **clear and structured roadmap system**.
 
 # ✨ Features
 
-📌 Field-based career roadmap selection
-📚 Structured learning paths (CSE, IT, ENTC and more)
-💼 Internship preparation strategies
-🎯 Placement preparation guidance
-🧠 Research-backed roadmap system
-🎨 Clean distraction-free platform design
-⚡ Smooth modern animations
+📌 Field-based career roadmap selection  
+📚 Structured learning paths (CSE, IT, ENTC and more)  
+💼 Internship preparation strategies  
+🎯 Placement preparation guidance  
+🧠 Research-backed roadmap system  
+🎨 Clean distraction-free platform design  
+⚡ Smooth modern animations  
 📱 Fully responsive design (Desktop + Mobile)
 
 ---
@@ -59,13 +59,14 @@ All organized into a **clear and structured roadmap system**.
 
 ## Frontend
 
-⚛ React
-🔀 React Router
-🎨 Custom CSS
+⚛ React  
+🔀 React Router  
+🎨 Custom CSS  
+🌀 Lenis Smooth Scroll
 
 ## Backend & Infrastructure
 
-🔥 Firebase
+🔥 Firebase  
 🗄 Firebase Firestore
 
 ## Content Infrastructure
@@ -90,7 +91,7 @@ Firebase provides scalable backend services with **real-time synchronization and
 
 Blog content and learning resources are stored using a **public GitHub repository** to maintain transparency and version control.
 
-📂 Blog Content Repository
+📂 Blog Content Repository  
 https://github.com/sanketpadhyal/sluz-feed
 
 ## 🔹 Open Source Resources
@@ -103,18 +104,18 @@ Most educational resources used on the platform come from **publicly available d
 
 The roadmap structure references insights from trusted global platforms including:
 
-Google
-Microsoft
-Amazon
-GitHub
-LinkedIn
-Coursera
-Udemy
-GeeksforGeeks
-LeetCode
-HackerRank
-StackOverflow
-YouTube
+Google  
+Microsoft  
+Amazon  
+GitHub  
+LinkedIn  
+Coursera  
+Udemy  
+GeeksforGeeks  
+LeetCode  
+HackerRank  
+StackOverflow  
+YouTube  
 
 All logos and brand references belong to their respective owners.
 
@@ -124,9 +125,9 @@ All logos and brand references belong to their respective owners.
 
 SLUZ is optimized for:
 
-Desktop
-Tablet
-Mobile Devices
+Desktop  
+Tablet  
+Mobile Devices  
 
 ---
 
@@ -136,12 +137,12 @@ The platform is currently in **active development**.
 
 Future versions will include:
 
-• Admin dashboard
-• Student authentication system
-• Real-time database integrations
-• Student progress tracking
-• Internship resource hub
-• Direct mentor communication
+• Admin dashboard  
+• Student authentication system  
+• Real-time database integrations  
+• Student progress tracking  
+• Internship resource hub  
+• Direct mentor communication  
 
 ---
 
@@ -157,28 +158,28 @@ Logos and brand names are used **only for educational and research reference pur
 
 Built with focus and vision by **Sanket Padhyal**
 
-GitHub
+GitHub  
 https://github.com/sanketpadhyal
 
 ---
 
 # 🤝 Contributors
 
-Sanket Padhyal
+Sanket Padhyal  
 Creator & Maintainer
 
 ---
 
 # 📬 Contact
 
-Email
-[sanketpadhyal3@gmail.com](mailto:sanketpadhyal3@gmail.com)
+Email  
+sanketpadhyal3@gmail.com  
 
-Phone
-+91 9284024617
+Phone  
++91 9284024617  
 
-Location
-India
+Location  
+India  
 
 ---
 
