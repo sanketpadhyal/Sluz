@@ -4,23 +4,24 @@ SLUZ is a modern web platform designed to provide **structured, research-backed 
 
 Instead of random learning and confusion, SLUZ helps students follow a **clear step-by-step path toward skills, internships, and high-paying placements** based on real industry expectations.
 
-🌐 **Website:** https://www.sluz.blog
+🌐 Website
+https://www.sluz.blog
 
 ---
 
-## 🎯 Vision
+# 🎯 Vision
 
 Remove career confusion and provide **clear structured guidance** for students.
 
 ---
 
-## 🧭 Mission
+# 🧭 Mission
 
 Help students build **skills, projects, and internship strategies** through focused roadmaps designed using industry insights.
 
 ---
 
-## 💡 Platform Philosophy
+# 💡 Platform Philosophy
 
 Many students spend years learning technologies **without clear direction**.
 
@@ -37,7 +38,7 @@ All organized into a **clear and structured roadmap system**.
 
 ---
 
-## ✨ Features
+# ✨ Features
 
 📌 Field-based career roadmap selection
 📚 Structured learning paths (CSE, IT, ENTC and more)
@@ -50,48 +51,51 @@ All organized into a **clear and structured roadmap system**.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Frontend
+## Frontend
 
 ⚛ React
 🔀 React Router
 🎨 Custom CSS
 
-### Backend & Infrastructure
+## Backend & Infrastructure
 
 🔥 Firebase
 🗄 Firebase Firestore
 
-### Content Infrastructure
+## Content Infrastructure
 
-📂 GitHub Repository for blog and public resources
+📂 GitHub Repository used for blog and feed content
 
 ---
 
-## ☁ Database & Storage
+# ☁ Database & Storage
 
 SLUZ uses modern cloud infrastructure to securely manage and store platform data.
 
-### 🔹 Firestore Database
+## 🔹 Firestore Database
 
 User accounts, activity data and platform information are securely stored using **Firebase Firestore**.
 
-### 🔹 Cloud Infrastructure
+## 🔹 Cloud Infrastructure
 
 Firebase provides scalable backend services with **real-time synchronization and reliable performance**.
 
-### 🔹 Blog Storage
+## 🔹 Blog Storage
 
-Blog content and public learning resources are stored through a **GitHub repository** for transparency and open access.
+Blog content and learning resources are stored using a **public GitHub repository** to maintain transparency and version control.
 
-### 🔹 Open Source Resources
+📂 Blog Content Repository
+https://github.com/sanketpadhyal/sluz-feed
 
-Most educational resources used on the platform come from **publicly available learning documentation and open resources**.
+## 🔹 Open Source Resources
+
+Most educational resources used on the platform come from **publicly available documentation and learning resources**.
 
 ---
 
-## 🔎 Research Sources
+# 🔎 Research Sources
 
 The roadmap structure references insights from trusted global platforms including:
 
@@ -112,7 +116,7 @@ All logos and brand references belong to their respective owners.
 
 ---
 
-## 📱 Responsive Design
+# 📱 Responsive Design
 
 SLUZ is optimized for:
 
@@ -122,7 +126,7 @@ Mobile Devices
 
 ---
 
-## 📌 Project Status
+# 📌 Project Status
 
 The platform is currently in **active development**.
 
@@ -137,7 +141,7 @@ Future versions will include:
 
 ---
 
-## 📜 Disclaimer
+# 📜 Disclaimer
 
 SLUZ is not affiliated with any companies referenced on the platform.
 
@@ -145,7 +149,7 @@ Logos and brand names are used **only for educational and research reference pur
 
 ---
 
-## 👨‍💻 Developer
+# 👨‍💻 Developer
 
 Built with focus and vision by **Sanket Padhyal**
 
@@ -154,14 +158,14 @@ https://github.com/sanketpadhyal
 
 ---
 
-## 🤝 Contributors
+# 🤝 Contributors
 
 Sanket Padhyal
 Creator & Maintainer
 
 ---
 
-## 📬 Contact
+# 📬 Contact
 
 Email
 [sanketpadhyal3@gmail.com](mailto:sanketpadhyal3@gmail.com)
