@@ -1,4 +1,8 @@
-# 🧭 SLUZ – Structured Career Roadmap Platform
+<a href="https://www.odoy.in">
+    <img src="./logo.png" alt="ODOY LOGO" width="290" />
+</a>
+
+# SLUZ – Structured Career Roadmap Platform
 
 SLUZ is a modern web platform designed to provide **structured, research-backed career roadmaps for students**.
 
