@@ -11,6 +11,8 @@ Instead of random learning and confusion, SLUZ helps students follow a **clear s
 🌐 Website  
 https://www.sluz.blog
 
+>> OPEN SOURCE TMRW!
+
 ---
 
 # 🎯 Vision
