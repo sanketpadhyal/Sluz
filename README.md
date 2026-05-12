@@ -11,7 +11,7 @@ Instead of random learning and confusion, SLUZ helps students follow a **clear s
 🌐 Website  
 https://www.sluz.blog
 
->> OPEN SOURCE TMRW!
+>> OPEN SOURCE on 14 May 2026
 
 ---
 
